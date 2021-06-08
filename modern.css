@@ -1,0 +1,100 @@
+body{
+text-align: center;
+margin: 0;
+font-size: 20px;
+}
+.pragraph{
+font-style: italic;
+}
+.top-container{
+background-color: #9932cc;
+}
+.middle-container{
+margin: 100px auto 100px auto;
+line-height: 2
+}
+.bottom-container{
+margin: auto;
+background-color: #a9a9a9;
+padding: 20px 0 20px;
+}
+.fb{
+margin: 20px 10px;
+}
+.tw{
+margin: 20px 10px;
+}
+.insta{
+margin: 20px 10px;
+}
+a{
+text-decoration: none;
+}
+a:hover{
+color: red;
+}
+
+.profile-pic{
+width: 10%;
+border-radius: 5%;
+margin: 100px auto 100px auto;
+}
+.intro{
+width:60%;
+margin: auto;
+}
+.my-hobbies{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+
+.cover{
+border-radius: 100px;
+}
+.hobbies-img{
+width: 50%;
+border-radius: 5%;
+float: left;
+margin-right: 10%;
+}
+.my-family{
+width: 50%;
+margin: 100px auto 100px auto;
+}
+.family-img{
+width: 50%;
+border-radius: 5%;
+margin-left: 10%;
+float: right;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2044c7);
+  background-image: -moz-linear-gradient(top, #3498db, #2044c7);
+  background-image: -ms-linear-gradient(top, #3498db, #2044c7);
+  background-image: -o-linear-gradient(top, #3498db, #2044c7);
+  background-image: linear-gradient(to bottom, #3498db, #2044c7);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 12px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #2bd9b9);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #2bd9b9);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #2bd9b9);
+  background-image: -o-linear-gradient(top, #3cb0fd, #2bd9b9);
+  background-image: linear-gradient(to bottom, #3cb0fd, #2bd9b9);
+  text-decoration: none;
+}
+hr{
+border: dotted white 60px;
+}
